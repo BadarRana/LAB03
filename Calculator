@@ -1,2 +1,6 @@
 Console.Writeline("Rana Badar");
 Console.Writeline("24-SET-015");
+a=5;
+b=6;
+x=a+b;
+Console.Weiteline($"The sum of two numbers is {x}");
