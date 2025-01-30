@@ -8,3 +8,5 @@ y=a-b;
 Console.Weiteline($"The sub of two numbers is {y}");
 x=a*b;
 Console.Weiteline($"The Multiplication of two numbers is {x}");
+y=a/b;
+Console.Weiteline($"The division of two numbers is {y}");
