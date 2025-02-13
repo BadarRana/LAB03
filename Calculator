@@ -10,3 +10,6 @@ x=a*b;
 Console.Weiteline($"The Multiplication of two numbers is {x}");
 y=a/b;
 Console.Weiteline($"The division of two numbers is {y}");
+
+Muhammad Sohaib Ahmad
+SET-24-040
